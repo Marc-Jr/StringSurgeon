@@ -1,4 +1,4 @@
-```
+ 
 # StringSurgeon
 
 **StringSurgeon** is a Java-based console application that provides a suite of common string utilities, designed for beginner to intermediate Java programmers and students.
